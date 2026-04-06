@@ -1,5 +1,4 @@
 # Stick Hero Game
-Ashish Bargoti (2022114)
 Aman Tomar (2022061)
 
 This repository contains a simple implementation of the Stick Hero game using JavaFX. The game involves stretching a stick between two pillars to bridge a gap. The goal is to make the stick long enough for the character to cross the gap and reach the other side.
